@@ -1,12 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev0109&style=flat-square&color=blue" alt=""/>
-</div>
-
 ### :hammer_and_wrench: My Major Skill :  
   <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
